@@ -102,30 +102,57 @@ Overall, the 4-bit ALU design incorporates necessary logical gates and multiplex
   ● Test Case 1 - Addition: A= 0101, B= 0010
   Expected Result: 0111
   Observed Result: 0111 (Passed)
+
+
+
   ● Test Case 2 - Addition: A= 1010, B= 1100
   Expected Result: 0110
   Observed Result: 0110 (Passed)
+
+
+
   ● Test Case 3 – Subtraction : A= 0101, B= 0010
   Expected Result: 0011
   Observed Result: 0011 (Passed)
+
+
+
   ● Test Case 4 – Subtraction : A= 1010, B= 1100
   Expected Result: 1110
   Observed Result: 1110 (Passed)
+
+
+
   ● Test Case 5 - And : A= 0101, B= 0010
   Expected Result: 0000
   Observed Result: 0000 (Passed)
+
+
+
   ● Test Case 6 – And : A= 1010, B= 1100
   Expected Result: 1000
   Observed Result: 1000 (Passed)
+
+
+
   ● Test Case 7 – OR : A= 0101, B= 0010
   Expected Result: 0111
   Observed Result: 0111 (Passed)
+
+
+
   ● Test Case 8 – OR : A= 1010, B= 1100
   Expected Result: 1110
   Observed Result: 1110 (Passed)
+
+
+
   ● Test Case 9 – XOR : A= 0101, B= 0010
   Expected Result: 0111
   Observed Result: 0111 (Passed)
+
+
+
   ● Test Case 10 – XOR : A= 1010, B= 1100
   Expected Result: 0110
   Observed Result: 0110 (Passed)
