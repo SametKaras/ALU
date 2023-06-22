@@ -99,6 +99,9 @@ Overall, the 4-bit ALU design incorporates necessary logical gates and multiplex
 ## 5. Simulation Results
 
 - Functional simıulation of the 4-bit ALU circuit was done using Vivado esign Suite. We aimed to verify the accuracy and functionality of thr ALU in performing various arithmetic and logical operations on simulation,4-bit binary numbers.
+
+
+
   ● Test Case 1 - Addition: A= 0101, B= 0010
   Expected Result: 0111
   Observed Result: 0111 (Passed)
