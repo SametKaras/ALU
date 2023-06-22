@@ -1,6 +1,6 @@
 # Design of a 4-bit Arithmetic Logic Unit (ALU)
 
-Digital Logic Design Project Source Codes - Samet Karaş
+Digital Logic Design Project Source Codes
 
 ## Table of Contents
 
