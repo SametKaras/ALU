@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ALU4BIT_Project.srcs/sources_1/new/ALU_Add.v" \
+"../../../../ALU4BIT_Project.srcs/sources_1/new/ALU_And.v" \
+"../../../../ALU4BIT_Project.srcs/sources_1/new/ALU_Or.v" \
+"../../../../ALU4BIT_Project.srcs/sources_1/new/ALU_Sub.v" \
+"../../../../ALU4BIT_Project.srcs/sources_1/new/ALU_Xor.v" \
+"../../../../ALU4BIT_Project.srcs/sources_1/new/Top_ALU.v" \
+"../../../../ALU4BIT_Project.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

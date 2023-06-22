@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Addition Test 1: A + B = 0111
+Addition Test 2: A + B = 0110
+Subtraction Test 1: A - B = 0011
+Subtraction Test 2: A - B = 1110
+Bitwise AND Test 1: A & B = 0000
+Bitwise AND Test 2: A & B = 1000
+Bitwise OR Test 1: A | B = 0111
+Bitwise OR Test 2: A | B = 1110
+Bitwise XOR Test 1: A ^ B = 0111
+Bitwise XOR Test 2: A ^ B = 0110
+$finish called at time : 95 ns : File "C:/Users/ROG ZEPHYRUS/Downloads/Group_10-FinalProject/ALU4BIT_Project/ALU4BIT_Project.srcs/sim_1/new/testbench.v" Line 85
